@@ -4,7 +4,7 @@
 
 **Submission for the OpenAI Open Model Hackathon - Best Local Agent Category.**
 
-Cognitalk is an innovative command-line AI journal assistant that I built for ultimate privacy. In an age where using AI often means uploading your most sensitive data to third-party servers, Cognitalk stands apart. I believe you shouldn't have to trade your privacy for the power of AI, which is why your most personal thoughts and reflections **never leave your personal computer**.
+Cognitalk is an innovative command-line AI journal assistant that is built for ultimate privacy. In an age where using AI often means uploading your most sensitive data to third-party servers, Cognitalk stands apart. I believe you shouldn't have to trade your privacy for the power of AI, which is why your most personal thoughts and reflections **never leave your personal computer**.
 
 ---
 
