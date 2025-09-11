@@ -56,6 +56,7 @@ def setup_and_run_server():
     print("\n--- Step 5/5: Configuring server and starting public tunnel... ---")
 
     # Your ngrok authtoken
+    # This is used for testing purposes only
     NGROK_AUTHTOKEN = "2ux38Y129Uxr0xjY3epOzwlsSjX_5b3ozQEaYKQTev6CmfCes"
     ngrok.set_auth_token(NGROK_AUTHTOKEN)
 
@@ -94,4 +95,5 @@ def setup_and_run_server():
     app.run(port=5000)
 
 if __name__ == '__main__':
+
     setup_and_run_server()
