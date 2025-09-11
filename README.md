@@ -13,8 +13,8 @@ Cognitalk is an innovative command-line AI journal assistant that I built for ul
 To test Cognitalk, you will need to run two scripts: the server in Google Colab and the client on your local machine.
 
 ### Step 1: Run the Server (on Google Colab)
-1.  Open the `app.py` script in a Google Colab notebook.
-2.  Run the entire script in a single cell (`!python app.py`).
+1.  Open the `oss_server.py` script in a Google Colab notebook.
+2.  Run the entire script in a single cell (`!oss.py`).
 3.  The script will install all dependencies, start the AI model, and at the end, it will print a public `ngrok` URL.
 4.  **Copy this public URL.**
 
