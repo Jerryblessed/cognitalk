@@ -14,14 +14,14 @@ To test Cognitalk, you will need to run two scripts: the server in Google Colab 
 
 ### Step 1: Run the Server (on Google Colab)
 1.  Open the `oss_server.py` script in a Google Colab notebook.
-2.  Run the entire script in a single cell (`!oss.py`).
+2.  Run the entire script in a single cell (`!oss_server.py`).
 3.  The script will install all dependencies, start the AI model, and at the end, it will print a public `ngrok` URL.
 4.  **Copy this public URL.**
 
 ### Step 2: Run the Client (on Your Local PC)
 1.  Ensure you have Python installed on your computer.
 2.  Install the required libraries by running: `pip install requests colorama`.
-3.  Open the `client.py` file in a text editor.
+3.  Open the `oss.py` file in a text editor.
 4.  Find the line `NGROK_URL = "..."` and paste the public URL you copied from Colab.
 5.  Save the file.
 
