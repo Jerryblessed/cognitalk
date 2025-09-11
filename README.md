@@ -39,9 +39,17 @@ To test Cognitalk, you will need to run two scripts: the server in Google Colab 
 *   **🗣️ Ask Questions:** Chat with your own personal history in a natural, conversational manner.
 *   **🔍 Analyze Themes:** Use the `analyze` command to have the AI act as a psychoanalyst, identifying recurring themes and emotional patterns in your writing.
 
-## 🚀 Architectural Deep Dive
 
 Cognitalk is built on a secure, privacy-first client-server architecture.
+Of course. Here is the exact Markdown code for the demo video section.
+
+## 🎥 Demo Video
+
+Watch the 3-minute video below to see Cognitalk in action and learn about its privacy-first architecture.
+
+[![Cognitalk Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=kRIXcjK2HGE)
+
+## 🚀 Architectural Deep Dive
 
 ![Architectural Diagram of Cognitalk](https://github.com/Jerryblessed/cognitalk/blob/main/architectural_diagram.png?raw=true)
 
