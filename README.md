@@ -28,7 +28,7 @@ To test Cognitalk, you will need to run two scripts: the server in Google Colab 
 ### Step 3: Start Chatting!
 1.  Open a terminal or command prompt on your PC.
 2.  Navigate to the project directory.
-3.  Run the command: `python client.py`.
+3.  Run the command: `python oss.py`.
 4.  The application will start, and you can begin adding entries or asking questions!
 
 ---
@@ -88,7 +88,7 @@ This project's architecture is designed for accessibility. However, for users wi
 1.  [Ollama](https://ollama.com/download) is installed and running on your local machine.
 2.  You have pulled the model: `ollama pull gpt-oss:20b`.
 
-**To run locally, you would modify `client.py` to call the local Ollama instance directly instead of the ngrok URL:**
+**To run locally, you would modify `oss.py` to call the local Ollama instance directly instead of the ngrok URL:**
 
 ```python
 # --- Example of local-only modification ---
